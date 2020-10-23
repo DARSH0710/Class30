@@ -1,2 +1,2 @@
-# Class30
-Angry birds Game, Adding A Vanishing Effect to the pig
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
